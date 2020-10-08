@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+### I am Nipu Chakraborty
+
+### Expert in
+
+<div style="display:flex;">
+<img height="100" width="100" src="https://avatars1.githubusercontent.com/u/25158?s=200&v=4"/>
+<img height="100" width="100" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"/>
+ <img height="100" width="100" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png">
+ <img height="100" width="100" class="hero-logo" src="https
