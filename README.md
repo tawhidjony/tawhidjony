@@ -25,3 +25,13 @@ Here are some ideas to get you started:
 <img height="100" width="100" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png">
 <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400">
 </div>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/tawhidjony">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tawhidjony&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tawhidjony&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
